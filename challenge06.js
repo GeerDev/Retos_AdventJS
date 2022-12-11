@@ -16,6 +16,3 @@ function createCube(size) {
     }
     return cadena.substring(cadena.indexOf("\n"), cadena.length - 1).replace("\n", "").replace(" ", "")
   }
-  
-  const cubeOfTwo = createCube(4)
-  console.log(cubeOfTwo)

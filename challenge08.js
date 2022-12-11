@@ -10,5 +10,3 @@ function checkPart(part) {
     }
     return true
   }
-  
-  checkPart("zzzoonzzz")
